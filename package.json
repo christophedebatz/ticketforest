@@ -1,0 +1,34 @@
+{
+  "name": "ticketforest",
+  "version": "1.0.0",
+  "description": "Ticket Forest is a Saas portail that manage sport event subscription like running event or cyclism championship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christophedebatz/ticketforest.git",
+    "private": true
+  },
+  "dependencies":
+  {
+    "restify": "4.0.3"
+  },
+  "keywords": [
+    "sport",
+    "ticket",
+    "reservation",
+    "booking",
+    "course",
+    "running",
+    "trail",
+    "chrono"
+  ],
+  "author": "de Bats Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophedebatz/ticketforest/issues"
+  },
+  "homepage": "https://github.com/christophedebatz/ticketforest#readme"
+}
